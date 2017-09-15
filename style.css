@@ -20,15 +20,6 @@ body{
 	background-color: #f0304a;
 	line-height: inherit;
 }
-.text h1{
-	font-size: 120px;
-    color: #f0304a;
-   font-weight: 400;
-   text-transform: none;
- line-height: 105px;
- font-style: none;
-
-}
  .text{
 	background-image: url("2.jpg");
 	background-repeat: no-repeat;
@@ -41,33 +32,36 @@ body{
     
 	
 }
+
+.text h1{
+	font-size: 120px;
+    color: #f0304a;
+   font-weight: 400;
+   text-transform: none;
+ line-height: 105px;
+ font-style: none;
+
+}
+.text p{
+	font-size: 30px;
+	margin-top: 40px;
+}
 .color{
 
 	margin-top: 484px;
 }
 .para p{
 	font-size: 30px;
-	margin-top: 480px;
-
-}
-.pragress-bar{
-	margin-top: 480px;
+	
 
 }
 .progress{
 	height: 10px;
 	
 }
-.icons{
-	margin-top: 10%;
-}
 .icons p{
  padding: 10px;
  font-size: 20px;
-}
-
-.Numbers{
-	margin-top: 10%;
 }
 .Numbers h1{
 	font-size: 50px;
@@ -95,3 +89,109 @@ font-size: 26px;
 	width: 380px;
 	height: 300px;
 }
+.tweets h1{
+	font-size: 70px;
+	line-height: 40px;
+	margin-left: 40px;
+	color: #f0304a;
+	text-transform: none;
+	font-weight: 300;
+
+
+}
+.tweets p{
+	font-size: 30px;
+	line-height: 0px;
+	margin-left: 50px;
+	color: #282828;
+	text-transform: none;
+}
+.latest img{
+margin-left: 30px;
+margin-right: 10px;
+float:left;
+
+ }
+ .column{
+ 	overflow: hidden;
+ 	padding: 2px;
+ }
+ .qode h5{
+ 	font-size:  20px;
+ 	color:#f0304a;
+ }
+.qode p{
+font-size: 16px;
+line-height: 25px;
+padding: 15px;
+margin: 0 13px;
+color: #282828;
+}
+
+.hire h2 {
+    color: #f0304a;
+    font-size: 70px;
+    line-height: 70px;
+    text-transform: none;
+}.hire p {
+    font-size: 33px;
+    line-height: 44px;
+    color: #282828;
+    letter-spacing: 0px;
+    text-transform: none;
+}
+.table input{
+	font-size: 18px;
+	padding: 10px;
+	background-color: #000;
+	color: #fff;
+}
+.table input:hover{
+	background-color: #f0304a;
+}
+.footer{
+	background-color: #f2f2f2;
+}
+.instagram h3{
+	text-align: center;
+	color: #282828;
+	font-size: 22px;
+}
+.instagram img{
+	width: 300px;
+	height: 250px;
+}
+.bottom p{
+	font-size: 12px;
+	background-color: #333;
+	color: #fff;
+	text-align: center;
+	text-transform: none;
+	height: 100px;
+	padding: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
